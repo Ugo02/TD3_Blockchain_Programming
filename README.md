@@ -1,1 +1,1 @@
-# TD3_Blockchain_Programming
+workshops/solidity/erc20-101
